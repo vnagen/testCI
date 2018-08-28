@@ -10,4 +10,11 @@
   <null name="requires"/>
   <null name="listACL"/>
   <value name="webappLoad">yes</value>
+  <value name="name">testServ</value>
+  <value name="build">9.7.17</value>
+  <null name="description"/>
+  <value name="time">2018-08-28 17:40:13 IST</value>
+  <value name="jvm_version">1.8.0_151</value>
+  <value name="publisher">INBAN13L0FC319F.CORPAD.DSM-GROUP.COM</value>
+  <value name="patch_nums"></value>
 </Values>
